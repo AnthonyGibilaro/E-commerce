@@ -35,7 +35,7 @@ Le projet "E-commerce" est développé en utilisant le langage de programmation 
 1. Clonez le dépôt GitHub.
 
     ```sh
-    git clone https://github.com/votre-repo/e-commerce.git
+    git@github.com:AnthonyGibilaro/e-commerce.git
     ```
 
 2. Allez dans le répertoire de l'API.
